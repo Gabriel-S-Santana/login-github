@@ -7,7 +7,7 @@ Este é um projeto simples de uma página de login inspirada na página de login
 ## Curtiu?
 
 Dê uma olhada nos outros repositórios. Sua star é bem-vinda!
-Link[https://github.com/Gabriel-S-Santana/]
+Link(https://github.com/Gabriel-S-Santana/)
 
 ## Como Usar
 
